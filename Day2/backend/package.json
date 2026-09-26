@@ -1,0 +1,20 @@
+{
+  "name": "todo-day2-backend",
+  "version": "1.0.0",
+  "description": "Backend for the full stack Todo Application (Node.js + Express + MongoDB)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "todo",
+    "express",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
